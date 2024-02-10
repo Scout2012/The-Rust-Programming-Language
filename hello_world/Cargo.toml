@@ -1,0 +1,6 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+edition = "2021" # dicatates which editions a program gets built against, similar to TypeScripts 'lib' compiler option it seems
+
+[dependencies]
