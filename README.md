@@ -1,3 +1,3 @@
 # The Rust Book
 
-A repository tracking my progress of [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/).
+A repository tracking my progress of the projects/exercises defined in [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) book.
